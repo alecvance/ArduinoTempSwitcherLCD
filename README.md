@@ -7,7 +7,8 @@ This was designed for a beer fermenter refrigerator, so that we can simply power
 
 Arduino LCD
 RioRand® LCD Module for Arduino 20 x 4, White on Blue
-https://www.amazon.com/RioRand-Module-Arduino-White-Blue/dp/B00GZ6GK7A/ref=cm_rdp_product
+http://www.riorand.com/electronics/riorandtm-lcd-module-for-arduino-20-x-4-white-on-blue.html
+Datasheet: https://cdn-shop.adafruit.com/datasheets/TC2004A-01.pdf
 
 Pin # Function
 1 VSS (Gnd)
@@ -66,7 +67,7 @@ VCC pin to + rail
 GND pin to - rail
 
 Relay
-https://www.amazon.com/RobotDyn-Thyristor-channel-Switch-Solid/dp/B072WQTBPQ/ref=sr_1_16?ie=UTF8&qid=1499537292&sr=8-16&keywords=solid+state+relay+5v+arduino
+https://www.amazon.com/RobotDyn-Thyristor-channel-Switch-Solid/dp/B072WQTBPQ/ref=sr_1_16
 
 VCC connected to relay pin 13
 GND connected to - rail
